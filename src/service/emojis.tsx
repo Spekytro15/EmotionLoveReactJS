@@ -24,4 +24,9 @@ export const emotion = [
     emotion:"safado",
     emoji:"🤤",
   },
+  {
+    id:4,
+    emotion:"raiva",
+    emoji:"😡",
+  },
   ]
