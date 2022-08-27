@@ -1,0 +1,27 @@
+export const emotion = [
+  {
+    id:0,
+    emotion:"feliz",
+    emoji:"😃",
+  },
+  {
+    id:1,
+    emotion:"triste",
+    emoji:"🥺",
+  },
+  {
+    id:2,
+    emotion:"amando",
+    emoji:"😍",
+  },
+  {
+    id:3,
+    emotion:"sono",
+    emoji:"😴",
+  },
+  {
+    id:4,
+    emotion:"safado",
+    emoji:"🤤",
+  },
+  ]
